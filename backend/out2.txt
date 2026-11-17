@@ -1,0 +1,16 @@
+Query: Halo, siapa kamu? balas 3 kata
+
+[38;2;255;191;0m────────────────────────────────────────[0m
+[1;38;2;255;191;0m☤ Hermes[0m
+[38;2;255;248;220mSaya Hermes Agent[0m
+[38;2;255;191;0m────────────────────────────────────────[0m
+👁️ Hindsight — saving to memory…
+
+Resume this session with:
+  hermes --resume local-e9c3893e3e9d548906b07e1c58b9e659a58424aef45f396dd9d5b287848829c7
+  hermes -c "Halo, siapa kamu? balas 3 kata"
+
+Session:        local-e9c3893e3e9d548906b07e1c58b9e659a58424aef45f396dd9d5b287848829c7
+Title:          Halo, siapa kamu? balas 3 kata
+Duration:       6s
+Messages:       2 (1 user, 0 tool calls)

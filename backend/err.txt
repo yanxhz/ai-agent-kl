@@ -1,0 +1,2 @@
+hermes: 'Halo, siapa kamu? balas 3 kata' is not a `hermes` command.
+Run `hermes --help` to see all commands.

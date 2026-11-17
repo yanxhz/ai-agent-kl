@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm ci",
+  "framework": "nextjs",
+  "devCommand": "npm run dev",
+  "env": {
+    "NEXT_PUBLIC_RELAY_URL": {
+      "required": true,
+      "description": "Public URL of the local relay via Cloudflare Tunnel. E.g. https://agent-kl.example.com"
+    }
+  }
+}
